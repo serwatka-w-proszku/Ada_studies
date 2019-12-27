@@ -1,0 +1,18 @@
+project Default is
+
+   for Main use ("Alarm.adb");
+   for Languages use ("Ada");
+
+   package Compiler is
+      for Switches ("ada") use ("-g", "-O2");
+   end Compiler;
+
+   package Ide is
+   end Ide;
+
+   package Naming is
+      for Casing use "MixedCase";
+   end Naming;
+
+end Default;
+

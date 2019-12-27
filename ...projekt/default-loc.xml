@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 221" >
+      <vfs_project />
+      <vfs_file>E:\dokumenty\Kuba\STUDIA\V Semestr\Ada\...kolejne wersje\Alarm - dominik.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>E:\Dokumenty\Kuba\STUDIA\V Semestr\Ada\...nasz projekt\Alarm.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 221" >
+      <vfs_project />
+      <vfs_file>E:\dokumenty\Kuba\STUDIA\V Semestr\Ada\...kolejne wersje\Alarm - dominik.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>E:\Dokumenty\Kuba\STUDIA\V Semestr\Ada\...nasz projekt\Alarm.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >D:\ada-projekt\default.gpr</vfs_file>
+    <file_marker current="true" column=" 59" line=" 53">
+      <vfs_project >D:\ada-projekt\default.gpr</vfs_project>
+      <vfs_file >D:\ada-projekt\Alarm.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
